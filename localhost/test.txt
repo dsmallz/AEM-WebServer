@@ -1,0 +1,82 @@
+Dennis A. Smallwood    Phone: 	801-717-5808
+    Email: 	dsmallz9698@gmail.comObjective
+
+
+
+Summary
+
+
+
+
+
+Technical
+Summary
+Highly self-motivated and goal-oriented professional seeking a long-term career in software engineering building IT enterprise products for an exciting growth company.
+
+A results-driven, customer-focused, and loyal employee with a track record that demonstrates strong analytical and interpersonal skills. Excellent problem-solver with the ability to quickly grasp complex systems and resolve critical issues. Considerable experience in customer relations management involving large corporate and international clients.
+
+Skills
+      Java, Python, C#, J2EE, Hibernate, JSP, Servlets, SOA, SOAP, ReST, 
+      XML/XSL, JSON,  Java Swing 
+Operation Systems
+      Windows and Linux cross-platform programming
+Languages/Databases
+      Java, Python C#, .NET, C++,  SQL, MySQL, MSSQL, Oracle, Sybase, 
+      GWT-EXT
+Tools
+      Maven, SVN, Github, Ant, Agile programming, Eclipse, IntelliJ
+Professional ExperienceNovember 2013 – current 	Attachmate
+Senior Software Engineer
+* Integrated into third party virtual machine (VM) software such as Amazon EC2, XEN, Hyper-V 2012, AWS, VMware, and Citrix to manage VMs via our Cloud Management product called NCM. 
+* Bash scripting that manipulates virtual machines allowing full automation of VM operations such migrate, clone, network configuration, and adjusting VM settings such memory and storage.
+* Python scripting that is responsible for the entire VM automation stack for our client/server model
+* Provided product capabilities via web services and ReST interface
+* Agile programming experience, specifically using SCRUM model
+
+July 2005- 2013 	Novell, Inc 		
+Senior Software Engineer
+* Lead programmer and team lead for several integration projects that completed on time and with quality
+* Winner of Department Hackweek Projects in 2012 and 2013, which later were the foundation of marketable product features
+* Developed plug-in adapters into third party systems such as AWS via SOAP, JNI, and REST interfaces
+* Managed the ZENworks build system while reducing build downtime to avoid costly delays to entire product test team
+* Reduced critical customer issues from 10+ per quarter to 1, on average.
+* Developed and instructed technical training courses for Novell customers
+* Coding in C, C#, .Net, C++, and Java on the ZENworks (ZDM/ZCM) product
+* Java, Hibernate, HSQL, SQL, J2EE programming
+* Cross-platform (Linux, MAC, Windows) programming using Mono, C#, .Net languages
+* SOA Web Services programming using SOAP and WSDL protocols  
+* Extensive work with Linux, Drivers, and Networking Protocols
+* Agile programming experience, specifically using SCRUM model
+	
+July 2002- 2005 	Novell, Inc 		
+Support Engineer III 
+* Onsite experience for critical situations with Fortune 500 Companies
+* You Make the Difference Award – March 2005
+*  Customer Champion Award – October 2003
+*  Third-tier Support ZENworks Suite of Products (13+  products)                                
+*  Extensive ZENworks knowledge about processes, logging, and code
+*  Implemented and managed ZENworks Deployment Project
+
+May 2000- Aug. 2002 	Novell, Inc. 		
+ZENworks Test Engineer
+* Logged and tracked bugs requiring proficient communication and time management skills to coordinate contact with developers,
+     support, upper management and companies
+* Extensive experience using ZEN Policies & Packages and
+     MSI/NAL components
+* Managed a test case set for validation and component level tests
+* Validation and component testing on ZENworks for Desktops (ZfD) 3
+And ZENworks for Desktop 3.2 using WinRunner Automation Toolkit
+* Completed entire test case set on time according to project schedules for
+     both ZfD 3 and ZfD 3.2
+Education2005-2007	 	University of Phoenix 	
+Master of Business Administration (MBA)
+
+1998-2002 		Brigham Young University 	
+Bachelor of Computer Science
+Business Minor
+CertificationsZENworks Specialist Certification, 
+Certified Novell Engineer (CNE)
+Certified Novell Administrator (CAN), 
+Certified Linux Engineer (CLE), 
+Linux Professional Institute- Level 1(LPI-L1), LPI- Intermediate
+ReferencesAvailable upon request
